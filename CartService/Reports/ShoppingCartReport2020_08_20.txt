@@ -1,0 +1,5 @@
+Count:2
+countWithForBonusProducts:1
+expired10:0
+expired20:0
+expired30:2

@@ -216,3 +216,4 @@ src/Rebracer.xml
 /src/CourseServer/Course.Web/Resources
 /src/CourseServer/Course.Web/Media
 /.idea
+/.vs
